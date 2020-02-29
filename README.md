@@ -1,4 +1,8 @@
-<h1>Go Barber - Backend</h1>
+<p align="center">
+  <img src="https://github.com/lucasiori/gobarber-backend/blob/master/gostack-node.png" alt="GoStack">
+</p>
+
+<h1>GoBarber - Backend</h1>
 
 <p>
   Backend da aplicação usada como base durante o Bootcamp GoStack 2020.
