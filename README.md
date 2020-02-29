@@ -31,7 +31,7 @@ yarn dev
 <p>Executar o servidor de <i>jobs</i> em <i>background</i></p>
 
 ```sh
-yarn qeue
+yarn queue
 ```
 
 <h3>Objetos</h3>
