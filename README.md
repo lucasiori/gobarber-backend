@@ -4,7 +4,7 @@
   Backend da aplicação usada como base durante o Bootcamp GoStack 2020.
 </p>
 <p>
-  Trata-se de uma aplicação para barbearias/salões de beleza, onde é possível o gerenciamento da agenda de horário por meio de 
+  Trata-se de uma aplicação para barbearias/salões de beleza, onde é realizado o gerenciamento da agenda de horários por meio de 
   agendamentos/cancelamentos feitos pelos clientes.
 </p>
 
@@ -154,7 +154,7 @@ yarn qeue
         </tr>
         <tr>
           <td>GET</td>
-          <td>(base_url)/providers/(provider_id)/avaliable</td>
+          <td>(base_url)/providers/(provider_id)/avaliable?date=(date / timemillis)</td>
           <td>(Bearer) token Jwt</td>
           <td></td>
           <td>Lista de todos os horários do dia, para o provedor informado</td>
@@ -197,6 +197,10 @@ yarn qeue
         </tr>
       </tbody>
     </table>
+    <br/>
+    <span>
+       <strong>OBS:</strong> Quando o usuário efetua o cancelamento de um horário, o provedor responsável recebe um email informativo.
+    </span>
   </li>
   
   <li>
@@ -229,7 +233,7 @@ yarn qeue
   </li>
   
   <li>
-    <h5>Agenda</h5>
+    <h5>Agendas</h5>
     <table>
       <thead>
         <th>Método</th>
