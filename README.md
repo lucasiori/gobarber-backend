@@ -32,6 +32,7 @@ para novos agendamentos ou horários que já estão ocupados.</p>
 <p><code>npm install</code></p>
 <p>Agora, com todas as dependências instaladas, para iniciar o serviço execute o comando:</p>
 <p><code>npm start</code></p>
+<p>O serviço será executado na porta 3333 do seu localhost.</p>
 <p>Para iniciar o servidor de tarefas em background:</p>
 <p><code>npm queue</code></p>
 
