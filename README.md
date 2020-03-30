@@ -8,7 +8,8 @@
 
 <p align="center">
   <a href="#sobre-aplicacao">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#comecando">Começando</a>
+  <a href="#comecando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#entidades-rotas">Entidades e Rotas</a>
 </p>
 
 <br />
@@ -18,6 +19,8 @@
 na plataforma web e pode consultar a sua agenda para qualquer dia. Nessa consulta são mostrados todos os horários que estão disponíveis
 para novos agendamentos ou horários que já estão ocupados.</p>
 <p>No aplicativo mobile, o usuário realiza o seu cadastro e pode agendar um horário com o provedor de serviços de sua escolha, além de consultar e cancelar seus agendamentos existentes.</p>
+
+<p>💻 Frontend: <a href="https://github.com/lucasiori/gobarber-frontend">GoBarber - Frontend</a></p>
 
 <br /> 
 
