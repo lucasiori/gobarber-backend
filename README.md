@@ -1,8 +1,8 @@
 <h1 align="center">
-  <image src="https://github.com/lucasiori/gobarber-backend/blob/master/.github/gobarber-backend.png" alt="GoBarber" width="500" />
+  <image src="https://github.com/lucasiori/gobarber-backend/blob/master/.github/gobarber-backend.png" alt="GoBarber" height="300" />
 </h1>
 
-<h3 align="center">GoBarber</h3>
+<h3 align="center">✂ GoBarber</h3>
 
 <blockquote align="center">Aplicação base desenvolvida durante o Bootcamp GoStack</blockquote>
 
@@ -21,6 +21,7 @@ para novos agendamentos ou horários que já estão ocupados.</p>
 <p>No aplicativo mobile, o usuário realiza o seu cadastro e pode agendar um horário com o provedor de serviços de sua escolha, além de consultar e cancelar seus agendamentos existentes.</p>
 
 <p>💻 Frontend: <a href="https://github.com/lucasiori/gobarber-frontend">GoBarber - Frontend</a></p>
+<p>📱 Mobile: <a href="https://github.com/lucasiori/gobarber-mobile">GoBarber - Mobile</a></p>
 
 <br /> 
 
